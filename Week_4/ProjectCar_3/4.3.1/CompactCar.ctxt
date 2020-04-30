@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CompactCar
+comment0.text=\n\ Write\ a\ description\ of\ class\ CompactCar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=file1\ file2\ turnfast
+comment1.target=CompactCar(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\n
+comment2.params=
+comment2.target=void\ turnLeft()
+comment2.text=\n\ Turn\ the\ car\ to\ the\ left\ every\ time\ the\ key\ "left"\ is\ pressed\n
+comment3.params=
+comment3.target=void\ turnRight()
+comment3.text=\n\ Turn\ the\ car\ to\ the\ left\ every\ time\ the\ key\ "right"\ is\ pressed\n
+numComments=4
