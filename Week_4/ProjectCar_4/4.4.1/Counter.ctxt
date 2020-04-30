@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Counter\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=id\ color1\ color2
+comment1.target=Counter(int,\ java.awt.Color,\ java.awt.Color)
+comment1.text=\n\ Constructor\n
+comment2.params=numberOfLaps
+comment2.target=void\ update(int)
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=color1
+comment5.target=void\ setColor1(java.awt.Color)
+comment6.params=
+comment6.target=java.awt.Color\ getColor1()
+comment7.params=color2
+comment7.target=void\ setColor2(java.awt.Color)
+comment8.params=
+comment8.target=java.awt.Color\ getColor2()
+numComments=9
